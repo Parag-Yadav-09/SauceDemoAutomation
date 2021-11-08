@@ -1,0 +1,9 @@
+Verify if a user will be able to login with a valid username and valid password.
+Verify if a user cannot login with a valid username and an invalid password.
+Verify the login page for both, when the field is blank and Submit button is clicked.
+Verify the messages for invalid login.
+Verify if the data in password field is either visible as bullet signs.
+Verify if the login page allows to log in simultaneously with different credentials in a different browser.
+Verify if the ‘login’ key of the keyboard is working correctly on the login page.
+Verify if a user cannot enter the characters more than the specified range in each field.
+Verify if a user should not be allowed to log in with different credentials from the same browser at the same time.
