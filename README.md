@@ -1,2 +1,2 @@
-# AmazonWebsiteAutomation
+# SauceDemoWebsiteAutomation
 Automation is done with Testng & POM
